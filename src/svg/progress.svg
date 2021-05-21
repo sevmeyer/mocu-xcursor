@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<path id="c" class="left(-1,22)" d="m1 1v13.75l3.94-1.63 1.72 4.16 1.84-0.78-1.71-4.15 3.94-1.63z"/>
+		<circle id="s" class="left(1,-6)" cx="14" cy="15" r="6.125"/>
+		<mask id="m" class="anim" maskUnits="userSpaceOnUse">
+			<path d="m13 10v5h1v-5z" fill="#ffffff" transform="rotate(0,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#ffffff" transform="rotate(-9,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#f8f8f8" transform="rotate(-18,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#f1f1f1" transform="rotate(-27,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#eaeaea" transform="rotate(-36,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#e3e3e3" transform="rotate(-45,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#dcdcdc" transform="rotate(-54,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#d5d5d5" transform="rotate(-63,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#cdcdcd" transform="rotate(-72,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#c6c6c6" transform="rotate(-81,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#bfbfbf" transform="rotate(-90,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#b8b8b8" transform="rotate(-99,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#b1b1b1" transform="rotate(-108,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#aaaaaa" transform="rotate(-117,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#a3a3a3" transform="rotate(-126,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#9c9c9c" transform="rotate(-135,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#959595" transform="rotate(-144,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#8e8e8e" transform="rotate(-153,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#878787" transform="rotate(-162,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#808080" transform="rotate(-171,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#787878" transform="rotate(-180,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#717171" transform="rotate(-189,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#6a6a6a" transform="rotate(-198,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#636363" transform="rotate(-207,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#5c5c5c" transform="rotate(-216,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#555555" transform="rotate(-225,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#4e4e4e" transform="rotate(-234,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#474747" transform="rotate(-243,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#404040" transform="rotate(-252,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#393939" transform="rotate(-261,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#323232" transform="rotate(-270,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#2a2a2a" transform="rotate(-279,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#232323" transform="rotate(-288,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#1c1c1c" transform="rotate(-297,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#151515" transform="rotate(-306,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#0e0e0e" transform="rotate(-315,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#070707" transform="rotate(-324,14,15)"/>
+			<path d="m13 10v5h1v-5z" fill="#000000" transform="rotate(-333,14,15)"/>
+			<circle cx="14" cy="11.125" r=".875" style="fill:#fff"/>
+			<circle cx="14" cy="15" r="3"/>
+		</mask>
+	</defs>
+	<g style="fill:#0a0b0c;stroke:#0a0b0c;stroke-linejoin:round;opacity:.1">
+		<use xlink:href="#c" style="stroke-width:2" x="1" y="1"/>
+		<use xlink:href="#s" style="stroke-width:1.75" x="1" y="1"/>
+	</g>
+	<use xlink:href="#c" style="fill:#1a1b1c;stroke:#1a1b1c;stroke-width:2;stroke-linejoin:round"/>
+	<use xlink:href="#c" style="fill:#fafbfc"/>
+	<use xlink:href="#s" style="fill:#1a1b1c;stroke:#1a1b1c;stroke-width:1.75;stroke-linejoin:round"/>
+	<use xlink:href="#s" style="fill:#fafbfc"/>
+	<circle mask="url(#m)" class="left(1,-6)" cx="14" cy="15" r="4.75" style="fill:#1a1b1c"/>
+	<circle id="hot" class="left(-1,22)" cx="1" cy="1" r="1" style="fill:#f00;opacity:.5"/>
+</svg>

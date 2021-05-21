@@ -1,0 +1,78 @@
+# Primary cursor names (duplicates are omitted)
+
+# freedesktop.org
+# https://www.freedesktop.org/wiki/Specifications/cursor-spec/
+
+default
+text
+pointer
+help
+progress
+wait
+copy
+alias
+no-drop
+not-allowed
+all-scroll
+row-resize
+col-resize
+n-resize
+e-resize
+s-resize
+w-resize
+ne-resize
+se-resize
+sw-resize
+nw-resize
+vertical-text
+crosshair
+cell
+up-arrow
+context-menu
+ns-resize
+ew-resize
+nesw-resize
+nwse-resize
+
+
+# CSS
+# https://www.w3.org/TR/css-ui-3/#cursor
+# https://developer.mozilla.org/docs/Web/CSS/cursor
+
+grab
+grabbing
+zoom-in
+zoom-out
+
+
+# X11
+# https://gitlab.freedesktop.org/xorg/data/cursors
+
+bottom_tee
+center_ptr
+dot
+dotbox
+left_tee
+ll_angle
+lr_angle
+pencil
+right_ptr
+right_tee
+top_tee
+ul_angle
+ur_angle
+
+
+# Adwaita (GNOME) and Breeze (KDE)
+# https://gitlab.gnome.org/GNOME/adwaita-icon-theme
+# https://invent.kde.org/plasma/breeze
+
+color-picker
+dnd-ask
+dnd-copy
+dnd-link
+dnd-no-drop
+down-arrow
+left-arrow
+right-arrow
+x-cursor

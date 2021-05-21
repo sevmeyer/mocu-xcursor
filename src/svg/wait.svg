@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<circle id="c" cx="12" cy="12" r="8.875"/>
+		<mask id="m" class="anim" maskUnits="userSpaceOnUse">
+			<path d="m10 4v8h2v-8z" fill="#ffffff" transform="rotate(0,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#ffffff" transform="rotate(-9,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#f8f8f8" transform="rotate(-18,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#f1f1f1" transform="rotate(-27,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#eaeaea" transform="rotate(-36,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#e3e3e3" transform="rotate(-45,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#dcdcdc" transform="rotate(-54,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#d5d5d5" transform="rotate(-63,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#cdcdcd" transform="rotate(-72,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#c6c6c6" transform="rotate(-81,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#bfbfbf" transform="rotate(-90,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#b8b8b8" transform="rotate(-99,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#b1b1b1" transform="rotate(-108,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#aaaaaa" transform="rotate(-117,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#a3a3a3" transform="rotate(-126,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#9c9c9c" transform="rotate(-135,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#959595" transform="rotate(-144,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#8e8e8e" transform="rotate(-153,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#878787" transform="rotate(-162,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#808080" transform="rotate(-171,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#787878" transform="rotate(-180,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#717171" transform="rotate(-189,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#6a6a6a" transform="rotate(-198,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#636363" transform="rotate(-207,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#5c5c5c" transform="rotate(-216,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#555555" transform="rotate(-225,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#4e4e4e" transform="rotate(-234,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#474747" transform="rotate(-243,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#404040" transform="rotate(-252,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#393939" transform="rotate(-261,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#323232" transform="rotate(-270,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#2a2a2a" transform="rotate(-279,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#232323" transform="rotate(-288,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#1c1c1c" transform="rotate(-297,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#151515" transform="rotate(-306,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#0e0e0e" transform="rotate(-315,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#070707" transform="rotate(-324,12,12)"/>
+			<path d="m10 4v8h2v-8z" fill="#000000" transform="rotate(-333,12,12)"/>
+			<circle cx="12" cy="6.25" r="1.25" style="fill:#fff"/>
+			<circle cx="12" cy="12" r="4.5"/>
+		</mask>
+	</defs>
+	<use xlink:href="#c" style="fill:#0a0b0c;stroke:#0a0b0c;stroke-width:2;stroke-linejoin:round;opacity:.1" x="1" y="1"/>
+	<use xlink:href="#c" style="fill:#1a1b1c;stroke:#1a1b1c;stroke-width:2;stroke-linejoin:round"/>
+	<use xlink:href="#c" style="fill:#fafbfc"/>
+	<circle mask="url(#m)" cx="12" cy="12" r="7" style="fill:#1a1b1c"/>
+	<circle id="hot" cx="12" cy="12" r="1" style="fill:#f00;opacity:.5"/>
+</svg>

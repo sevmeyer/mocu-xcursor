@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<path id="c" class="left(-1,22)" d="m10.5 2a8.5 8.5 0 0 0-8.5 8.5 8.5 8.5 0 0 0 8.5 8.5 8.5 8.5 0 0 0 5.213-1.787l3.787 3.787 1.5-1.5-3.787-3.787a8.5 8.5 0 0 0 1.787-5.213 8.5 8.5 0 0 0-8.5-8.5zm0 1.75a6.75 6.75 0 0 1 6.75 6.75 6.75 6.75 0 0 1-6.75 6.75 6.75 6.75 0 0 1-6.75-6.75 6.75 6.75 0 0 1 6.75-6.75z"/>
+		<path id="s" class="left(-1,22)" d="m10 7v3h-3v1h3v3h1v-3h3v-1h-3v-3z"/>
+	</defs>
+	<g style="fill:#0a0b0c;stroke:#0a0b0c;stroke-linejoin:round;opacity:.1">
+		<use xlink:href="#c" style="stroke-width:1.75" x="1" y="1"/>
+		<use xlink:href="#s" style="stroke-width:2" x="1" y="1"/>
+	</g>
+	<use xlink:href="#c" style="fill:#1a1b1c;stroke:#1a1b1c;stroke-width:1.75;stroke-linejoin:round"/>
+	<use xlink:href="#c" style="fill:#fafbfc"/>
+	<use xlink:href="#s" style="fill:#1a1b1c;stroke:#1a1b1c;stroke-width:2;stroke-linejoin:round"/>
+	<use xlink:href="#s" style="fill:#fafbfc"/>
+	<circle id="hot" class="left(-1,22)" cx="10.5" cy="10.5" r="1" style="fill:#f00;opacity:.5"/>
+</svg>

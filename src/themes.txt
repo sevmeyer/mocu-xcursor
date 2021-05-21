@@ -1,0 +1,5 @@
+# Name            Fill     Stroke   Shadow   Handedness
+Mocu-White-Right  #fcfcfc  #222222  #000000  right
+Mocu-White-Left   #fcfcfc  #222222  #000000  left
+Mocu-Black-Right  #111111  #f9f9f9  #000000  right
+Mocu-Black-Left   #111111  #f9f9f9  #000000  left

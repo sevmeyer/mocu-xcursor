@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24" height="24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<path id="s" class="left(-1,22)" d="m5 19 2-4.5 11-11 2.5 2.5-11 11z"/>
+		<path id="c" class="left(-1,22)" d="m18 3.5-1.5 1.5 2.5 2.5 1.5-1.5zm-2 2-0.5 0.5 2.5 2.5 0.5-0.5zm-1 1-7.5 7.5 2.5 2.5 7.5-7.5zm-8 8-1.1 2.5 1.1 1.1 2.5-1.1z"/>
+	</defs>
+	<use xlink:href="#s" style="fill:#0a0b0c;stroke:#0a0b0c;stroke-width:2;stroke-linejoin:round;opacity:.1" x="1" y="1"/>
+	<use xlink:href="#s" style="fill:#1a1b1c;stroke:#1a1b1c;stroke-width:2;stroke-linejoin:round"/>
+	<use xlink:href="#c" style="fill:#fafbfc"/>
+	<circle id="hot" class="left(-1,22)" cx="4" cy="20" r="1" style="fill:#f00;opacity:.5"/>
+</svg>
